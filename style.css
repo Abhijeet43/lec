@@ -1,0 +1,19 @@
+.box {
+	font-size: 26px;
+}
+
+.box-green {
+	background: green;
+}
+
+.box-red {
+	background: red;
+}
+
+.box-blue {
+	background: blue;
+}
+
+.box-orange {
+	background: orange;
+}
